@@ -1,0 +1,15 @@
+name: qrcr
+version: 0.1.0
+
+authors:
+  - Jonathan B. <greenbigfrog@gmail.com>
+
+crystal: 0.27.0
+
+license: MIT
+
+dependencies:
+  qrencode:
+    github: woodruffw/qrencode.cr
+  stumpy_png:
+    github: stumpycr/stumpy_png
